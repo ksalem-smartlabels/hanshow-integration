@@ -1,5 +1,5 @@
-Hanshow Integration Service
-
+**Hanshow Integration Service
+**
 
 
 Excel → Hanshow Integration API v2.0
@@ -8,7 +8,7 @@ Automated Windows service for retail price updates.
 
 
 
-Overview
+**Overview**
 
 
 
@@ -48,7 +48,7 @@ The service is designed to operate unattended.
 
 
 
-Architecture
+**Architecture**
 
 Excel File Drop
 
@@ -74,8 +74,8 @@ Retention Cleanup (30 days)
 
 
 
-Folder Structure
-
+**Folder Structure
+**
 
 
 Watched folder:
@@ -106,8 +106,8 @@ hanshow\_integration.log
 
 
 
-Excel Requirements
-
+**Excel Requirements
+**
 
 
 The Excel file must contain the following columns:
@@ -134,8 +134,8 @@ UnitPrice
 
 
 
-Mapping rules:
-
+**Mapping rules:
+**
 
 
 sku = ItemID
@@ -174,7 +174,7 @@ File is moved only if all batches succeed
 
 
 
-Logging
+**Logging**
 
 
 
