@@ -1,0 +1,101 @@
+2026-02-18 09:11:41,130 - INFO - Watching folder: C:\wamp64\www\csv\INTERFACE_FILE
+2026-02-18 09:11:41,130 - INFO - Sleeping 5 minutes...
+2026-02-18 09:15:04,613 - INFO - Watching folder: C:\wamp64\www\csv\INTERFACE_FILE
+2026-02-18 09:15:04,613 - INFO - Reading Excel file: C:\wamp64\www\csv\INTERFACE_FILE\inventory.xlsx
+2026-02-18 09:15:05,119 - INFO - Excel loaded. Rows found: 19905
+2026-02-18 09:15:05,456 - INFO - Items prepared: 19905
+2026-02-18 09:15:05,864 - INFO - Token obtained successfully
+2026-02-18 09:15:05,867 - INFO - Total items to send: 19905
+2026-02-18 09:15:05,877 - INFO - Sending batch 1 (1000 items)
+2026-02-18 09:15:06,406 - INFO - Batch 1 HTTP Status: 200
+2026-02-18 09:15:06,409 - INFO - Sending batch 2 (1000 items)
+2026-02-18 09:15:06,804 - INFO - Batch 2 HTTP Status: 200
+2026-02-18 09:15:06,808 - INFO - Sending batch 3 (1000 items)
+2026-02-18 09:15:07,226 - INFO - Batch 3 HTTP Status: 200
+2026-02-18 09:15:07,227 - INFO - Sending batch 4 (1000 items)
+2026-02-18 09:15:07,641 - INFO - Batch 4 HTTP Status: 200
+2026-02-18 09:15:07,644 - INFO - Sending batch 5 (1000 items)
+2026-02-18 09:15:08,070 - INFO - Batch 5 HTTP Status: 200
+2026-02-18 09:15:08,073 - INFO - Sending batch 6 (1000 items)
+2026-02-18 09:15:08,519 - INFO - Batch 6 HTTP Status: 200
+2026-02-18 09:15:08,522 - INFO - Sending batch 7 (1000 items)
+2026-02-18 09:15:08,929 - INFO - Batch 7 HTTP Status: 200
+2026-02-18 09:15:08,931 - INFO - Sending batch 8 (1000 items)
+2026-02-18 09:15:09,408 - INFO - Batch 8 HTTP Status: 200
+2026-02-18 09:15:09,411 - INFO - Sending batch 9 (1000 items)
+2026-02-18 09:15:09,835 - INFO - Batch 9 HTTP Status: 200
+2026-02-18 09:15:09,838 - INFO - Sending batch 10 (1000 items)
+2026-02-18 09:15:10,244 - INFO - Batch 10 HTTP Status: 200
+2026-02-18 09:15:10,251 - INFO - Sending batch 11 (1000 items)
+2026-02-18 09:15:10,648 - INFO - Batch 11 HTTP Status: 200
+2026-02-18 09:15:10,653 - INFO - Sending batch 12 (1000 items)
+2026-02-18 09:15:11,032 - INFO - Batch 12 HTTP Status: 200
+2026-02-18 09:15:11,035 - INFO - Sending batch 13 (1000 items)
+2026-02-18 09:15:11,418 - INFO - Batch 13 HTTP Status: 200
+2026-02-18 09:15:11,421 - INFO - Sending batch 14 (1000 items)
+2026-02-18 09:15:11,811 - INFO - Batch 14 HTTP Status: 200
+2026-02-18 09:15:11,816 - INFO - Sending batch 15 (1000 items)
+2026-02-18 09:15:12,232 - INFO - Batch 15 HTTP Status: 200
+2026-02-18 09:15:12,235 - INFO - Sending batch 16 (1000 items)
+2026-02-18 09:15:12,647 - INFO - Batch 16 HTTP Status: 200
+2026-02-18 09:15:12,653 - INFO - Sending batch 17 (1000 items)
+2026-02-18 09:15:13,045 - INFO - Batch 17 HTTP Status: 200
+2026-02-18 09:15:13,047 - INFO - Sending batch 18 (1000 items)
+2026-02-18 09:15:13,455 - INFO - Batch 18 HTTP Status: 200
+2026-02-18 09:15:13,457 - INFO - Sending batch 19 (1000 items)
+2026-02-18 09:15:13,845 - INFO - Batch 19 HTTP Status: 200
+2026-02-18 09:15:13,848 - INFO - Sending batch 20 (905 items)
+2026-02-18 09:15:14,233 - INFO - Batch 20 HTTP Status: 200
+2026-02-18 09:15:14,239 - INFO - File moved to: C:\wamp64\www\csv\INTERFACE_FILE\done\inventory.xlsx
+2026-02-18 09:15:14,244 - INFO - Sleeping 5 minutes...
+2026-02-18 09:20:14,254 - INFO - Sleeping 5 minutes...
+2026-02-18 09:25:14,260 - INFO - Reading Excel file: C:\wamp64\www\csv\INTERFACE_FILE\inventory.xlsx
+2026-02-18 09:25:15,220 - INFO - Excel loaded. Rows found: 19905
+2026-02-18 09:25:16,374 - INFO - Items prepared: 19905
+2026-02-18 09:25:16,941 - INFO - Token obtained successfully
+2026-02-18 09:25:16,942 - INFO - Total items to send: 19905
+2026-02-18 09:25:16,942 - INFO - Sending batch 1 (1000 items)
+2026-02-18 09:25:17,614 - INFO - Batch 1 HTTP Status: 200
+2026-02-18 09:25:17,617 - INFO - Sending batch 2 (1000 items)
+2026-02-18 09:25:18,128 - INFO - Batch 2 HTTP Status: 200
+2026-02-18 09:25:18,130 - INFO - Sending batch 3 (1000 items)
+2026-02-18 09:25:18,703 - INFO - Batch 3 HTTP Status: 200
+2026-02-18 09:25:18,706 - INFO - Sending batch 4 (1000 items)
+2026-02-18 09:25:19,267 - INFO - Batch 4 HTTP Status: 200
+2026-02-18 09:25:19,268 - INFO - Sending batch 5 (1000 items)
+2026-02-18 09:25:19,668 - INFO - Batch 5 HTTP Status: 200
+2026-02-18 09:25:19,669 - INFO - Sending batch 6 (1000 items)
+2026-02-18 09:25:20,085 - INFO - Batch 6 HTTP Status: 200
+2026-02-18 09:25:20,088 - INFO - Sending batch 7 (1000 items)
+2026-02-18 09:25:20,502 - INFO - Batch 7 HTTP Status: 200
+2026-02-18 09:25:20,503 - INFO - Sending batch 8 (1000 items)
+2026-02-18 09:25:20,916 - INFO - Batch 8 HTTP Status: 200
+2026-02-18 09:25:20,918 - INFO - Sending batch 9 (1000 items)
+2026-02-18 09:25:21,354 - INFO - Batch 9 HTTP Status: 200
+2026-02-18 09:25:21,356 - INFO - Sending batch 10 (1000 items)
+2026-02-18 09:25:21,755 - INFO - Batch 10 HTTP Status: 200
+2026-02-18 09:25:21,758 - INFO - Sending batch 11 (1000 items)
+2026-02-18 09:25:22,146 - INFO - Batch 11 HTTP Status: 200
+2026-02-18 09:25:22,149 - INFO - Sending batch 12 (1000 items)
+2026-02-18 09:25:22,539 - INFO - Batch 12 HTTP Status: 200
+2026-02-18 09:25:22,541 - INFO - Sending batch 13 (1000 items)
+2026-02-18 09:25:22,929 - INFO - Batch 13 HTTP Status: 200
+2026-02-18 09:25:22,932 - INFO - Sending batch 14 (1000 items)
+2026-02-18 09:25:23,322 - INFO - Batch 14 HTTP Status: 200
+2026-02-18 09:25:23,324 - INFO - Sending batch 15 (1000 items)
+2026-02-18 09:25:23,729 - INFO - Batch 15 HTTP Status: 200
+2026-02-18 09:25:23,730 - INFO - Sending batch 16 (1000 items)
+2026-02-18 09:25:24,118 - INFO - Batch 16 HTTP Status: 200
+2026-02-18 09:25:24,119 - INFO - Sending batch 17 (1000 items)
+2026-02-18 09:25:24,513 - INFO - Batch 17 HTTP Status: 200
+2026-02-18 09:25:24,515 - INFO - Sending batch 18 (1000 items)
+2026-02-18 09:25:24,906 - INFO - Batch 18 HTTP Status: 200
+2026-02-18 09:25:24,906 - INFO - Sending batch 19 (1000 items)
+2026-02-18 09:25:25,290 - INFO - Batch 19 HTTP Status: 200
+2026-02-18 09:25:25,294 - INFO - Sending batch 20 (905 items)
+2026-02-18 09:25:25,690 - INFO - Batch 20 HTTP Status: 200
+2026-02-18 09:25:25,693 - INFO - File moved to: C:\wamp64\www\csv\INTERFACE_FILE\done\inventory.xlsx
+2026-02-18 09:25:25,697 - INFO - Sleeping 5 minutes...
+2026-02-18 09:30:25,700 - INFO - Sleeping 5 minutes...
+2026-02-18 09:35:25,705 - INFO - Sleeping 5 minutes...
+2026-02-18 09:40:25,710 - INFO - Sleeping 5 minutes...
